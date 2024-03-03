@@ -1,4 +1,4 @@
-package com.vastracart;
+package com.successcreations;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
